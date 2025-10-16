@@ -43,8 +43,8 @@ plt.plot(X,Y_Pred,color='Blue')
 plt.show()
 ```
 ## Output
-<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/e19f85e5-d70f-43d6-a35c-aa366b0d3a4a" />
-<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/2288f0a9-67a2-4f3b-85df-9f6ea5391840" />
+<img width="1773" height="740" alt="Screenshot 2025-10-16 085149" src="https://github.com/user-attachments/assets/4fd46246-78fe-44ba-b82d-01fa53ee73c4" />
+<img width="1836" height="390" alt="Screenshot 2025-10-16 085234" src="https://github.com/user-attachments/assets/d003f0ae-cc79-4cd1-ac2c-c283b745e658" />
 <img width="1845" height="689" alt="Screenshot 2025-10-16 085258" src="https://github.com/user-attachments/assets/7908e232-55ae-49d2-97a7-91a347e44947" />
 
 
